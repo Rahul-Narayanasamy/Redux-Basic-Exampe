@@ -1,6 +1,8 @@
 # Redux-Basic-Exampe
 Redux-Basic-Exampe
 
+code```
+
 const redux = require(&#39;redux&#39;)
 
 const createStore = redux.createStore;
@@ -60,3 +62,5 @@ store.dispatch(byCake());
 store.dispatch(byCake());
 
 unsubscribe();
+
+```
