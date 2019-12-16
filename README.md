@@ -1,2 +1,4 @@
-# Redux-Basic-Exampe
-Redux-Basic-Exampe
+# Redux-Basic-Example
+Redux-Basic-Example
+
+Run: node index
